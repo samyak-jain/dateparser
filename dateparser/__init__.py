@@ -1,4 +1,4 @@
-__version__ = '0.7.6'
+__version__ = '0.7.7'
 
 from .date import DateDataParser
 from .conf import apply_settings
